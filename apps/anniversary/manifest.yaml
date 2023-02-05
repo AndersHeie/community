@@ -1,0 +1,8 @@
+---
+id: anniversary
+name: Anniversary
+summary: Remind about Anniversaries
+desc: Set reminders for anniversaries at set times before they occur.
+author: Anders Heie
+fileName: anniversary.star
+packageName: anniversary
