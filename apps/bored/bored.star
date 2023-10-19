@@ -357,6 +357,6 @@ def get_schema():
                 desc="Optional: Enter a thing to do",
                 icon="user",
                 default="",
-            ),
+            )
         ],
     )
